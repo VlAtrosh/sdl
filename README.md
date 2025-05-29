@@ -49,6 +49,7 @@ o	SDL2 освобождает ресурсы рендерера и окна
 o	SDL_image освобождает текстуры
 ![Снимок экрана (251)](https://github.com/user-attachments/assets/4c247990-4f9a-4e23-94bd-e25a80d0c1fe)
 
+![Снимок экрана (256)](https://github.com/user-attachments/assets/b931b6f1-f09d-4c7b-8277-d646676b5613)
 
 
 
