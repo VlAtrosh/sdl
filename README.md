@@ -45,3 +45,7 @@ assets/       # Ресурсы (модели, текстуры)
 src/          # Исходный код
 cmake/        # Вспомогательные CMake-скрипты
 ```
+
+![Снимок экрана (437)](https://github.com/user-attachments/assets/1f5a4efb-4596-4faa-a7c0-eac91f9b3c61)
+
+
